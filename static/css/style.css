@@ -1,0 +1,18 @@
+h4 {
+   color: #d22e3a; padding-left: 20px;
+}
+
+.zxc {color: #FF0000}
+
+table {border: 2 px solid rgb(160 160 160); bgcolor: rgb(255, 0, 0);}
+th,
+td {
+  border: 1px solid rgb(160 160 160); bgcolor: rgb(255, 0, 0);
+}
+
+.title_main_menu {color: #d22e3a; padding-left: 20px}
+
+
+.pad {padding-left: 200px; color: #d22e3a}
+
+.bigger {padding-left: 280px; font-size: 30px}
